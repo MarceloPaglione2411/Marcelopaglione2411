@@ -1,4 +1,4 @@
-***`Cloud Engineer`***                                                     <p align="right">   ### 🤖 Tecnologias ### <p align="right">
+***`Cloud Engineer`***                                          <p align="right">   ###### 🤖 Tecnologias ###### <p align="right">
 
 <img 
     align="right" 
@@ -7,39 +7,38 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"   
-   
 />
 <img 
     align="right" 
-    alt="CSS" 
-    title="CSS"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="right" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Kubernetes" 
+    title="Kubernetes"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
 <img 
     align="right" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="right" 
-    alt="React"
-    title="React" 
+    alt="Terraform"
+    title="Terraform" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
 />
 <br/>
 <br/>
