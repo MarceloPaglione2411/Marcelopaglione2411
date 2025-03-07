@@ -1,4 +1,5 @@
 ***`Cloud Engineer`***                                          <p align="right">   ###### 🤖 Tecnologias ###### <p align="right">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <img 
     align="right" 
