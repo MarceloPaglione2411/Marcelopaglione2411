@@ -1,4 +1,5 @@
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marcelo-paglione" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marcelo-paglione?trk=profile-badge">Marcelo Paglione</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marcelo-paglione" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marcelo-paglione?trk=profile-badge"> 
+   Marcelo Paglione</a></div>
 **`Cloud Engineer`**                                          <p align="right">   ###### 🤖 Tecnologias ###### <p align="right">
 
           
