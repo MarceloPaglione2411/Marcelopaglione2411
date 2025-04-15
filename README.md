@@ -14,14 +14,6 @@
 />
 <img 
     align="right" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="right" 
     alt="Kubernetes" 
     title="Kubernetes"
     width="30px" 
@@ -34,7 +26,7 @@
     title="Google Cloud"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcp/kubernetes-original.svg" 
 />
 <img 
     align="right" 
